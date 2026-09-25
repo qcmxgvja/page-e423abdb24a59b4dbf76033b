@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.pweio.cn/sitemap.xml
